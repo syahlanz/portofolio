@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
     const dynamicSpan = document.querySelector(".typing-text .dynamic");
-    const words = ["SolFix Klik Kompi", "Inklink", "Web Designer", "Freelancer", "Content Creator"];
+    const words = ["IT Support Lotus", "SolFix Klik Kompi", "Inklink", "Web Designer", "Freelancer", "Content Creator"];
     let wordIndex = 0;
     let charIndex = 0;
     let isDeleting = false;
